@@ -11,6 +11,7 @@ package threads;
  * 
  * Alphonse bows to gaston. gastom bow backs to alphonse.
  * Here one thread is waiting for another thread to finish creating a deadloack situation
+ * Link to java docs : https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
  */
 public class DeadLock {
     static class Friend {
